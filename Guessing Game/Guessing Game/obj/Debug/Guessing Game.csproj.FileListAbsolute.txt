@@ -1,0 +1,8 @@
+C:\Users\Intel\Documents\Visual Studio 2015\Projects\Guessing Game\Guessing Game\bin\Debug\Guessing Game.exe
+C:\Users\Intel\Documents\Visual Studio 2015\Projects\Guessing Game\Guessing Game\bin\Debug\Guessing Game.pdb
+C:\Users\Intel\Documents\Visual Studio 2015\Projects\Guessing Game\Guessing Game\obj\Debug\Guessing_Game.Properties.Resources.resources
+C:\Users\Intel\Documents\Visual Studio 2015\Projects\Guessing Game\Guessing Game\obj\Debug\Guessing Game.csproj.GenerateResource.Cache
+C:\Users\Intel\Documents\Visual Studio 2015\Projects\Guessing Game\Guessing Game\obj\Debug\Guessing Game.exe
+C:\Users\Intel\Documents\Visual Studio 2015\Projects\Guessing Game\Guessing Game\obj\Debug\Guessing Game.pdb
+C:\Users\Intel\Documents\Visual Studio 2015\Projects\Guessing Game\Guessing Game\obj\Debug\Guessing_Game.frmmain.resources
+C:\Users\Intel\Documents\Visual Studio 2015\Projects\Guessing Game\Guessing Game\obj\Debug\Guessing Game.csprojResolveAssemblyReference.cache
